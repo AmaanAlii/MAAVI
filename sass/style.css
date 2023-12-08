@@ -4971,8 +4971,9 @@ body {
   float: left;
   width: 48%;
   height: 355px;
-  background-image: url("../images/service21.jpg");
-  background-size: cover;
+  background-image: url("../images/service21.png");
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   border-radius: 5px;
 }
