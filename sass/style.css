@@ -215,6 +215,7 @@ body {
   line-height: 28px;
   font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 ::-webkit-input-placeholder {
